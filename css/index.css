@@ -1,0 +1,45 @@
+#Create {
+    text-align: center;
+    margin-bottom: 50px;
+}
+form {
+    align-content: center;
+    position: relative;
+    margin-top: 60px;
+    border: medium solid black;
+    border-width: 30px;
+    background: gray;
+}
+#div {
+    margin-left: 25%;
+    width: 50%;
+}
+#login {
+    margin-top: 50px;
+}
+#selGender {
+    width: 225px;
+}
+#login, #password, #cPassword, #gender, #email {
+    margin-left: 100px;
+    width: 300px;
+    color:white;
+    font-weight: bold;
+    display: inline-block;
+}
+#checks, #result, #Submited {
+    color: white;
+    font-weight:bold;
+}
+#result {
+    margin-left: 20px;
+}
+#Submit {
+    margin-left: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 20px;
+}
+#Submited {
+    margin-left: 70px;
+}
